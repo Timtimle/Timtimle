@@ -2,7 +2,7 @@
   <tr>
     <td valign="top">
       <a href="https://github.com/Timtimle">
-        <img src="https://github-readme-stats.vercel.app/api?username=Timtimle&show_icons=true&theme=radical&rank_icon=github" alt="Timtimle's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Timtimle&show_icons=true&theme=radical&rank_icon=github&hide_border=true" alt="Timtimle's GitHub Stats" />
       </a>
     </td>
   </tr>
