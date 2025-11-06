@@ -2,11 +2,11 @@
   <img src="https://i.postimg.cc/TYG5tJDF/kurisu.jpg" height="110px" />
 </p>
 
-[![Timtimle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timtimle&show_icons=true&theme=radical&rank_icon=github)](https://github.com/Timtimle)
+[![Timtimle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timtimle&show_icons=true&theme=tokyonight&rank_icon=github)](https://github.com/Timtimle)
 
 # 🌟 Top Repositories
 
-[![voice-changer-SP](https://github-readme-stats.vercel.app/api/pin/?username=Timtimle&repo=voice-changer-SP&theme=radical&show_owner=true&count_private=true)](https://github.com/Timtimle/voice-changer-SP)
+[![voice-changer-SP](https://github-readme-stats.vercel.app/api/pin/?username=Timtimle&repo=voice-changer-SP&theme=tokyonight)](https://github.com/Timtimle/voice-changer-SP)
 
 # 💼 Activity
 
