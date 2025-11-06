@@ -6,13 +6,7 @@
 
 # 🌟 Top Repositories
 
-### 🗣️ [voice-changer-SP](https://github.com/Timtimle/voice-changer-SP)
-Dự án thay đổi giọng nói bằng AI/SP. *(<-- Bạn có thể sửa mô tả này)*
-
-[![GitHub stars](https://img.shields.io/github/stars/Timtimle/voice-changer-SP?style=social)](https://github.com/Timtimle/voice-changer-SP/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Timtimle/voice-changer-SP?style=social)](https://github.com/Timtimle/voice-changer-SP/network/members)
-![GitHub top language](https://img.shields.io/github/languages/top/Timtimle/voice-changer-SP)
-![GitHub last commit](https://img.shields.io/github/last-commit/Timtimle/voice-changer-SP)
+[![voice-changer-SP](https://github-readme-stats.vercel.app/api/pin/?username=Timtimle&repo=voice-changer-SP&theme=solarized_light&hide_border=true&_cache_bust=1)](https://github.com/Timtimle/voice-changer-SP)
 
 # 💼 Activity
 
