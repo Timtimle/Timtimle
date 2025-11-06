@@ -1,4 +1,4 @@
-# <h1 align="center"><code><img src="https://pbs.twimg.com/media/GeQ3G4cbIAIFfy1?format=jpg&name=large" height="110px">⠀Hi there⠀|⠀⠀👋⠀⠀</h1>
+# <h1 align="center"><code><img src="https://i.postimg.cc/TYG5tJDF/kurisu.jpg" height="110px"></h1>
 
 | [![Timtimle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timtimle&show_icons=true&include_all_commits=true&theme=solarized_light&hide_border=true&rank_icon=github&include_all_commits=true&line_height=20&hide_title=true)](https://github.com/Timtimle) | [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Timtimle&theme=solarized_light&hide_border=true&layout=compact&langs_count=6&hide_title=true)](https://wakatime.com/@Timtimle) |
 | ----- | ----- |
