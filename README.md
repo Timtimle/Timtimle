@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="https://i.postimg.cc/TYG5tJDF/kurisu.jpg" height="110px" />
+  <a href="https://github.com/Timtimle"> <img src="https://i.postimg.cc/TYG5tJDF/kurisu.jpg" 
+         width="150" 
+         height="150" 
+         style="border-radius: 50%; border: 4px solid #8e44ad; box-shadow: 0 0 15px rgba(142, 68, 173, 0.7);" 
+         alt="Timtimle Avatar">
+  </a>
 </p>
 
 [![Timtimle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timtimle&show_icons=true&theme=radical&rank_icon=github)](https://github.com/Timtimle)
