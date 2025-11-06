@@ -6,7 +6,7 @@
 
 # 🌟 Top Repositories
 
-[![voice-changer-SP](https://github-readme-stats.vercel.app/api/pin/?username=Timtimle&repo=voice-changer-SP&theme=solarized_light&hide_border=true)](https://github.com/Timtimle/voice-changer-SP)
+[![voice-changer-SP](https://github-readme-stats.vercel.app/api/pin/?username=Timtimle&repo=voice-changer-SP&theme=radical&hide_border=true&show_owner=true&count_private=true)](https://github.com/Timtimle/voice-changer-SP)
 
 # 💼 Activity
 
