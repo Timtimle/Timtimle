@@ -1,19 +1,16 @@
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="width: auto; margin-left: auto; margin-right: auto;">
   <tr>
-    
     <td align="center" valign="top" style="padding-right: 20px;">
       <img src="https://i.postimg.cc/TYG5tJDF/kurisu.jpg" 
            height="110px" 
            style="border-radius: 50%; border: 3px solid #6c5ce7; box-shadow: 0 0 10px rgba(108, 92, 231, 0.5);" 
            alt="Timtimle Avatar">
     </td>
-    
     <td valign="top">
       <a href="https://github.com/Timtimle">
         <img src="https://github-readme-stats.vercel.app/api?username=Timtimle&show_icons=true&theme=radical&rank_icon=github" alt="Timtimle's GitHub Stats" />
       </a>
     </td>
-
   </tr>
 </table>
 
