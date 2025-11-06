@@ -2,7 +2,7 @@
   <img src="https://i.postimg.cc/TYG5tJDF/kurisu.jpg" height="110px" />
 </p>
 
-[![Timtimle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timtimle&show_icons=true&include_all_commits=true&theme=radical&rank_icon=github&_cache_bust=99)](https://github.com/Timtimle)
+[![Timtimle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Timtimle&show_icons=true&theme=radical&rank_icon=github)](https://github.com/Timtimle)
 
 # 🌟 Top Repositories
 
