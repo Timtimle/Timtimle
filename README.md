@@ -1,4 +1,3 @@
 # > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
-| [![voice-changer-SP](https://github-readme-stats-rho-jet-89.vercel.app/api/pin/?username=Timtimle&repo=voice-changer-SP&theme=radical&hide_border=true&show_owner=true)](https://github.com/Timtimle/voice-changer-SP) | [![Tên Repo Thứ 2](https://github-readme-stats-rho-jet-89.vercel.app/api/pin/?username=Timtimle&repo=TEN_REPO_KHAC&theme=radical&hide_border=true&show_owner=true)](https://github.com/Timtimle/TEN_REPO_KHAC) |
-| :--- | :--- |
+| [![voice-changer-SP](https://github-readme-stats-rho-jet-89.vercel.app/api/pin/?username=Timtimle&repo=voice-changer-SP&theme=radical&hide_border=true&show_owner=true)](https://github.com/Timtimle/voice-changer-SP) 
